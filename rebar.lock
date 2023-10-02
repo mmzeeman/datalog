@@ -1,6 +1,4 @@
-{"1.1.0",
-[{<<"datum">>,{pkg,<<"datum">>,<<"4.5.0">>},0}]}.
-[
-{pkg_hash,[
- {<<"datum">>, <<"0F7F064A509632C70448F9BC7E7295BD5F9CD6E3207863B176416EF14FD19E0C">>}]}
-].
+[{<<"datum">>,
+  {git,"https://github.com/fogfish/datum",
+       {ref,"7e1df94071e36ccbff6269677bc52dca84377ff9"}},
+  0}].
